@@ -5,10 +5,11 @@ Plugin Name: Daisy FAQ Content
 Plugin URI: http://www.daisy.org/
 Description: Used by millions to make WP better.
 Author: Bradford Knowton
-Version: 1.16
+Version: 1.17.0
 Author URI: http://bradknowlton.com/
 License: GPLv2 or later
-
+GitHub Plugin URI: https://github.com/daisy/WP-faq-plugin
+GitHub Branch:     master
 */
 
 class WPFAQPlugin {
